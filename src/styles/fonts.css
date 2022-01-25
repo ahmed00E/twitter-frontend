@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Chirp';
+  src: url('../fonts/chirp-regular-web.woff2') format('woff2'),
+     url('../fonts/chirp-regular-web.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ChirpHeavy';
+  src: url('../fonts/chirp-extended-heavy-web.woff2') format('woff2'),
+     url('../fonts/chirp-extended-heavy-web.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ChirpBold';
+  src: url('../fonts/chirp-bold-web.woff') format('woff') 
+}
